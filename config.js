@@ -1,5 +1,5 @@
 module.exports = {
-  demoMode: false,
+  demoMode: true,
   colorScheme: 'dark',
   navPosition: 'sidenav',
   navColor: 'default',
